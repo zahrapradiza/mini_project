@@ -31,7 +31,7 @@
                 </tr>
             @empty
                 <tr>
-                    <td colspan="6" style="text-align: center;">Belum ada data produk.</td>
+                    <td colspan="6" style="text-align: center;">Belum ada data produk. Silakan tambahkan data di database.</td>
                 </tr>
             @endforelse
         </tbody>
